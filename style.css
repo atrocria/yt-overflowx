@@ -2,5 +2,5 @@
 body,
 html,
 #container {
-    overflow: hidden !important;
+    overflow-x: hidden !important;
 }
