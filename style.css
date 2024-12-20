@@ -1,0 +1,6 @@
+/* Applies overflow:hidden to key elements */
+body,
+html,
+#container {
+    overflow: hidden !important;
+}
